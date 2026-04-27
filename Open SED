@@ -1,1 +1,3 @@
 set SPEEDYFIT_MODELS=G:\sed_models
+
+(base) F:\Astrophysics\DATA astro\Plots\SED FIT>"C:\Users\Amsrang\AppData\Roaming\Python\Python312\Scripts\speedyfit.exe" setup "J185847.53+420850.2" -grid kurucz --phot
